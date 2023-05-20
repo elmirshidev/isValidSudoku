@@ -1,5 +1,5 @@
 {
-  "name": "isvalidsudoku",
+  "name": "@elmirshi.dev/isvalidsudoku",
   "version": "1.0.0",
   "description": "You can check if your sudoku is valid or not",
   "main": "index.js",
